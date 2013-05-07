@@ -1,5 +1,4 @@
 C:\Users\M\Documents\GitHub\our_small_test\our_small_test\bin\our_small_test.dll
 C:\Users\M\Documents\GitHub\our_small_test\our_small_test\bin\our_small_test.pdb
-C:\Users\M\Documents\GitHub\our_small_test\our_small_test\obj\Debug\our_small_test.csprojResolveAssemblyReference.cache
 C:\Users\M\Documents\GitHub\our_small_test\our_small_test\obj\Debug\our_small_test.dll
 C:\Users\M\Documents\GitHub\our_small_test\our_small_test\obj\Debug\our_small_test.pdb
